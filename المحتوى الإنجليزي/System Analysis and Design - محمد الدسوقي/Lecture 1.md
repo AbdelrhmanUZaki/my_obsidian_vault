@@ -1,11 +1,3 @@
----
-share_link: https://share.note.sx/lea2ekvu#C7jU37SEp+cDG1MAWWiTzU3RP+Jh4aIPEhLEECTVaKo
-share_updated: 2023-12-03T23:17:37+02:00
-dg-publish: true
----
-  
-
-  
 
 ## Software Development
 
