@@ -4,13 +4,13 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some👆"
+LANDING_BUTTON = "اضغط عشان تشوف الملاحظات"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = "بسم الله والصلاة والسلام على رسول الله"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "I love obsidian-zola! 💖"
+LANDING_TITLE = "مساء الخير"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/AbdelrhmanUZaki/using_netlify-"
