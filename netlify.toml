@@ -74,6 +74,3 @@ GRAPH_OPTIONS = """
         	},
         }
         """
-
-[settings]
-direction = "auto"
