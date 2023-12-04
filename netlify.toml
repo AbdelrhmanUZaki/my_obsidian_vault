@@ -8,7 +8,7 @@ LANDING_BUTTON = "ابدأ تصفح الملخصات والفوائد"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "بسم الله والصلاة والسلام على رسول الله"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "my site"
+LANDING_PAGE = "Site"
 # (Optional) Site title on landing page
 LANDING_TITLE = ""
 PYTHON_VERSION = "3.8"
