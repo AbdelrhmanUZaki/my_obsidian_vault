@@ -4,13 +4,13 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "اضغط عشان تشوف الملاحظات"
+LANDING_BUTTON = "ابدأ تصفح الملخصات والفوائد"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "بسم الله والصلاة والسلام على رسول الله"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "0 الصفحة الرئيسية"
+LANDING_PAGE = "الصفحة الرئيسية"
 # (Optional) Site title on landing page
-LANDING_TITLE = "مساء الخير"
+LANDING_TITLE = ""
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/AbdelrhmanUZaki/using_netlify-"
@@ -36,7 +36,7 @@ PAGE_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
-FOOTER = "عبد الرحمن"
+FOOTER = "رب مبلغ أوعى من سامع"
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "main"
 # (Optional) visjs graph options. Can remove if desired.
