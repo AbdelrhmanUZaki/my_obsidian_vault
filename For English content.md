@@ -1,2 +1,2 @@
 - You can browse English files from where you are, navigate through the side menu
-- For Arabic contetn: https://0xzakii.netlify.app/docs/lsfh-lryysy/
+- For Arabic content, click on the “الصفحة الرئيسية” on the right of the page and choose “الصفحة الرئيسية”
