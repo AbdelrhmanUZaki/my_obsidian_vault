@@ -2,7 +2,6 @@
 ## Software Development
 
   
-
 - **==Computer application (app)==**: SW program to execute set of functions.
 
   
