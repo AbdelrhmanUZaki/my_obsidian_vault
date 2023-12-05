@@ -1,1 +1,2 @@
-You can explore files files
+- You can browse English files from where you are, navigate through the side menu
+- For Arabic, [press here]([الصفحة الرئيسية | عبد الرحمن زكي (0xzakii.netlify.app)](https://0xzakii.netlify.app/docs/lsfh-lryysy/)) 
