@@ -7,4 +7,4 @@ dg-publish: true
 
   
 
-[[2- English content/Penetration Testing (bug hunting)/CSRF And Subdomain Takeover/CSRF/CSRF]]
+[[2- English content/2 Penetration Testing (bug hunting)/CSRF And Subdomain Takeover/CSRF/CSRF]]
