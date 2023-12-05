@@ -8,7 +8,7 @@ LANDING_BUTTON = "ابدأ تصفح الملخصات والفوائد"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "بسم الله والصلاة والسلام على رسول الله"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "lsfh-lryysy"
+LANDING_PAGE = "main"
 # (Optional) Site title on landing page
 LANDING_TITLE = ""
 PYTHON_VERSION = "3.8"
@@ -38,7 +38,7 @@ SIDEBAR_COLLAPSED = "true"
 # (Optional, default blank) Additional footer content.
 FOOTER = "رب مبلغ أوعى من سامع"
 # (Optional, default main) Root section name.
-ROOT_SECTION_NAME = "الصفحة الرئيسية"
+ROOT_SECTION_NAME = "alsafha alraesia"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
