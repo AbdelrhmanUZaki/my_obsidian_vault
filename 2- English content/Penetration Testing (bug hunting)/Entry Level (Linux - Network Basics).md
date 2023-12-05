@@ -9,8 +9,8 @@ dg-publish: true
 
 |Name|Assign|Date|Status|
 |---|---|---|---|
-|[[English content/Penetration Testing (bug hunting)/Entry Level Tasks/Network Task/Network Task]]||November 27, 2022 → December 5, 2022||
-|[[English content/Penetration Testing (bug hunting)/Entry Level Tasks/Linux Task/Linux Task]]||December 6, 2022 → December 18, 2022||
+|[[2- English content/Penetration Testing (bug hunting)/Entry Level Tasks/Network Task/Network Task]]||November 27, 2022 → December 5, 2022||
+|[[2- English content/Penetration Testing (bug hunting)/Entry Level Tasks/Linux Task/Linux Task]]||December 6, 2022 → December 18, 2022||
 |[[Network Meeting]]||December 1, 2022||
 |[[Reverse Meeting]]||December 6, 2022||
 |[[SOC Meeting]]||December 11, 2022||
