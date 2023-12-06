@@ -4,11 +4,11 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "ابدأ تصفح الملخصات والفوائد"
+LANDING_BUTTON = "تصفح الملخصات والفوائد"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "بسم الله والصلاة والسلام على رسول الله"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "main"
+LANDING_PAGE = "lbdy"
 # (Optional) Site title on landing page
 LANDING_TITLE = ""
 PYTHON_VERSION = "3.8"
@@ -21,7 +21,7 @@ SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://0xzakii.netlify.app/"
 # (Optional) Site Timezone
-TIMEZONE = "Asia/Hong_Kong"
+TIMEZONE = "Africa/Cairo"
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
@@ -38,7 +38,7 @@ SIDEBAR_COLLAPSED = "y"
 # (Optional, default blank) Additional footer content.
 FOOTER = "رب مبلغ أوعى من سامع"
 # (Optional, default main) Root section name.
-ROOT_SECTION_NAME = "alsafha alraesia"
+ROOT_SECTION_NAME = "الصفحة الرئيسة"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
